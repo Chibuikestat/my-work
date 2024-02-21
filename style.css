@@ -1,0 +1,175 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.facebook{
+    box-sizing: border-box;
+    background-color: grey;
+    display: flex;
+    list-style-type: none;
+    margin-top: 1%;
+    justify-content: space-around;
+    
+}
+
+
+
+.first-image{
+    margin-top: 5%;
+    margin-left: 40%;
+}
+
+.h3{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 39%;
+    margin-top: 2%;
+}
+
+.P{
+   margin-top: 5%;
+   margin-left: 18%;
+   font-size: larger;
+   font-weight: 200;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+
+.about{
+   margin-left: 0%;
+   margin-top: 7%;
+   list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.two{
+    background-color: grey;
+}
+
+.about-me{
+    margin-top: 10%;
+    margin-left: 45%;
+    color: white;
+}
+
+.image2{
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.p1{
+    padding-left: 2%;
+    font-size: large;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.h2{
+    margin-left: 45%;
+    margin-top: 0%;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 0.2cm;
+}
+
+.h4{
+    margin-left: 15%;
+    letter-spacing: 0.13cm;
+
+}
+.work{
+    list-style-type: none;
+    margin-left: 0%;
+    display: flex;
+    justify-content: space-around;
+    font-size: medium;
+    margin: 3%;
+    font-weight: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.yo{
+    background-color: rgb(135, 161, 37);
+}
+
+.Port{
+    margin-left: 45%;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+.spa{
+    color: brown;
+}
+
+.img1{
+    margin-left: 40%;
+
+}
+
+.case{
+    margin-left: 35%;
+
+}
+
+.photograph{
+    margin-left: 10%;
+}
+
+.us{
+    padding-left: 45%;
+    margin-top: 5%;
+}
+
+.talk{
+    padding-left: 37%;
+    font-size: larger;
+    font-weight: bolder;
+    
+}
+
+.contact{
+    padding-left: 40%;
+    margin-top: 5%;
+}
+
+.location{
+    padding-left: 40%;
+    margin-top: 5%;
+}
+
+.email{
+    padding-left: 35%;
+    margin-top: 5%;
+}
+
+.form{
+    padding-left: 30%;
+}
+
+.txt{
+    padding: 2%;
+    color: black;
+}
+
+.typ{
+    padding: 2%;
+
+}
+
+.mes{
+    width: 58%;
+}
+
+.submit{
+    padding: 2%;
+    width: 58%;
+}
+
+.submit:hover{
+    color: green;
+}
